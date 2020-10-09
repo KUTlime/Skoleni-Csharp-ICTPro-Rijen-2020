@@ -40,7 +40,7 @@ namespace Smazat
 				case 2:
 					return "dvojka";
 				default:
-					return "neznámá hodnota");
+					return "neznámá hodnota";
 			}
 		}
 
